@@ -1,0 +1,2 @@
+# plant-ecommerce-web
+Case Study: Building an E-commerce Website with Laravel and Vue.js
